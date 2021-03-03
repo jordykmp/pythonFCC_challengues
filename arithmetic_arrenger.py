@@ -1,5 +1,4 @@
 def arithmetic_arranger(problems,option=False):
-  
   first_Answer = ""
   operators = ""
   dashlines = ""
@@ -7,7 +6,6 @@ def arithmetic_arranger(problems,option=False):
   sumup = ""
   arranged_problems = ""
   sumo = ""
-
 
   if(len(problems) > 5):
     #First rule: Checking the amount of problems
